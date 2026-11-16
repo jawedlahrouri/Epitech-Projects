@@ -23,7 +23,6 @@ Epitech-Projects/
 │   ├── MySudo/             # Recodage de l'utilitaire d'élévation de privilèges 'sudo'
 │   ├── MyTop/              # Moniteur système interactif de processus (style htop)
 │   ├── organized/          # Système de gestion et tri dynamique de données
-│   ├── pipeto/             # Exploitation de binaires et sécurité applicative
 │   ├── Popeye/             # Déploiement micro-services multi-conteneurs Docker
 │   ├── robotfactory/       # Assembleur et parsing de bytecode
 │   ├── Secured/            # Implémentation de table de hachage sécurisée en C
@@ -54,7 +53,7 @@ Epitech-Projects/
 
 ## 🛠️ Répertoire Détaillé des Projets
 
-### 🔹 Tek1 (20 projets)
+### 🔹 Tek1 (19 projets)
 
 | Projet | Module | Langage | Description |
 |---|---|---|---|
@@ -72,7 +71,6 @@ Epitech-Projects/
 | **MySudo** | `B-PSU-100` | C | Réimplémentation de la commande `sudo` avec contrôle d'accès et authentification PAM. |
 | **MyTop** | `B-PSU-100` | C / Ncurses | Moniteur de ressources système interactif temps réel (CPU, mémoire, liste des processus). |
 | **organized** | `B-CPE-110` | C | Système de gestion d'inventaire avec tris dynamiques (quicksort, merge sort) sur listes chaînées. |
-| **pipeto** | `G-SEC-210` | C | Exploitation de vulnérabilités binaires (buffer overflow, format string, shellcode). |
 | **Popeye** | `B-DOP-200` | Docker | Orchestration de micro-services avec Docker et Docker Compose (Flask, Redis, Java, Postgres, Node). |
 | **robotfactory** | `B-CPE-200` | C | Désassembleur et analyseur de code binaire / bytecode pour instructions Corewar. |
 | **Secured** | `B-CPE-110` | C | Bibliothèque de table de hachage générique haute performance avec résolution de collisions. |
