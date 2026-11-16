@@ -43,9 +43,6 @@
 [submodule "tek1/organized"]
 	path = tek1/organized
 	url = https://github.com/jawedlahrouri/organized.git
-[submodule "tek1/pipeto"]
-	path = tek1/pipeto
-	url = https://github.com/jawedlahrouri/pipeto.git
 [submodule "tek1/Popeye"]
 	path = tek1/Popeye
 	url = https://github.com/jawedlahrouri/Popeye.git
