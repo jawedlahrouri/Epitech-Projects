@@ -1,0 +1,105 @@
+[submodule "tek1/settingup"]
+	path = tek1/settingup
+	url = https://github.com/jawedlahrouri/Setting_up.git
+[submodule "tek1/42sh"]
+	path = tek1/42sh
+	url = https://github.com/jawedlahrouri/42sh.git
+[submodule "tek1/Amazed"]
+	path = tek1/Amazed
+	url = https://github.com/jawedlahrouri/Amazed.git
+[submodule "tek1/chocolatine"]
+	path = tek1/chocolatine
+	url = git@github.com:EpitechPGEPromo2029/B-DOP-200-LIL-2-1-chocolatine-jawed.lahrouri.git
+[submodule "tek1/Corewar"]
+	path = tek1/Corewar
+	url = https://github.com/jawedlahrouri/Corewar.git
+[submodule "tek1/cuddle"]
+	path = tek1/cuddle
+	url = https://github.com/jawedlahrouri/cuddle.git
+[submodule "tek1/EpyTodo"]
+	path = tek1/EpyTodo
+	url = https://github.com/jawedlahrouri/EpyTodo.git
+[submodule "tek1/Minishell"]
+	path = tek1/Minishell
+	url = https://github.com/jawedlahrouri/Minishell.git
+[submodule "tek1/my_hunter"]
+	path = tek1/my_hunter
+	url = https://github.com/jawedlahrouri/My_hunter.git
+[submodule "tek1/MyLs"]
+	path = tek1/MyLs
+	url = https://github.com/jawedlahrouri/MyLs.git
+[submodule "tek1/myprintf"]
+	path = tek1/myprintf
+	url = git@github.com:EpitechPGEPromo2029/B-CPE-101-LIL-1-1-myprintf-lucas.lhomme.git
+[submodule "tek1/myradar"]
+	path = tek1/myradar
+	url = https://github.com/jawedlahrouri/My_Radar.git
+[submodule "tek1/MySudo"]
+	path = tek1/MySudo
+	url = https://github.com/jawedlahrouri/MySudo.git
+[submodule "tek1/MyTop"]
+	path = tek1/MyTop
+	url = https://github.com/jawedlahrouri/MyTop.git
+[submodule "tek1/organized"]
+	path = tek1/organized
+	url = https://github.com/jawedlahrouri/organized.git
+[submodule "tek1/pipeto"]
+	path = tek1/pipeto
+	url = https://github.com/LucasLhomme/pipeto.git
+[submodule "tek1/Popeye"]
+	path = tek1/Popeye
+	url = git@github.com:EpitechPGEPromo2029/B-DOP-200-LIL-2-1-popeye-jawed.lahrouri.git
+[submodule "tek1/robotfactory"]
+	path = tek1/robotfactory
+	url = https://github.com/jawedlahrouri/RobotFactory.git
+[submodule "tek1/Secured"]
+	path = tek1/Secured
+	url = https://github.com/jawedlahrouri/Secured.git
+[submodule "tek1/Tardis"]
+	path = tek1/Tardis
+	url = https://github.com/jawedlahrouri/Tardis.git
+[submodule "tek2/Arcade"]
+	path = tek2/Arcade
+	url = https://github.com/jawedlahrouri/Arcade.git
+[submodule "tek2/codename"]
+	path = tek2/codename
+	url = git@github.com:EpitechPGE2-2025/G-AIA-410-LIL-4-1-codename-2.git
+[submodule "tek2/Cvrie"]
+	path = tek2/Cvrie
+	url = https://github.com/jawedlahrouri/Cvrie.git
+[submodule "tek2/mymarvin"]
+	path = tek2/mymarvin
+	url = git@github.com:EpitechPGE2-2025/G-DOP-400-LIL-4-1-mymarvin-1.git
+[submodule "tek2/myteams"]
+	path = tek2/myteams
+	url = git@github.com:EpitechPGE2-2025/G-NWP-400-LIL-4-1-myteams-3.git
+[submodule "tek2/NanoTekSpice"]
+	path = tek2/NanoTekSpice
+	url = https://github.com/jawedlahrouri/NanoTekSpice.git
+[submodule "tek2/octopus"]
+	path = tek2/octopus
+	url = git@github.com:EpitechPGE2-2025/G-DOP-400-LIL-4-1-octopus-2.git
+[submodule "tek2/panoramix"]
+	path = tek2/panoramix
+	url = git@github.com:EpitechPGE2-2025/G-CCP-400-LIL-4-1-panoramix-37.git
+[submodule "tek2/Persona"]
+	path = tek2/Persona
+	url = https://github.com/jawedlahrouri/Persona.git
+[submodule "tek2/Raytracer"]
+	path = tek2/Raytracer
+	url = https://github.com/jawedlahrouri/Raytracer.git
+[submodule "tek2/StartTrek"]
+	path = tek2/StartTrek
+	url = https://github.com/jawedlahrouri/StartTrek.git
+[submodule "tek2/Zappy"]
+	path = tek2/Zappy
+	url = https://github.com/jawedlahrouri/Zappy.git
+[submodule "tek3/Dashboard"]
+	path = tek3/Dashboard
+	url = https://github.com/jawedlahrouri/Inter-Net.git
+[submodule "tek3/Sensai"]
+	path = tek3/Sensai
+	url = https://github.com/jawedlahrouri/Sensai.git
+[submodule "tek3/torch"]
+	path = tek3/torch
+	url = https://github.com/jawedlahrouri/torch.git
