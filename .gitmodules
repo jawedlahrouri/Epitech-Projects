@@ -9,7 +9,7 @@
 	url = https://github.com/jawedlahrouri/Amazed.git
 [submodule "tek1/chocolatine"]
 	path = tek1/chocolatine
-	url = git@github.com:EpitechPGEPromo2029/B-DOP-200-LIL-2-1-chocolatine-jawed.lahrouri.git
+	url = https://github.com/jawedlahrouri/chocolatine.git
 [submodule "tek1/Corewar"]
 	path = tek1/Corewar
 	url = https://github.com/jawedlahrouri/Corewar.git
@@ -30,7 +30,7 @@
 	url = https://github.com/jawedlahrouri/MyLs.git
 [submodule "tek1/myprintf"]
 	path = tek1/myprintf
-	url = git@github.com:EpitechPGEPromo2029/B-CPE-101-LIL-1-1-myprintf-lucas.lhomme.git
+	url = https://github.com/jawedlahrouri/myprintf.git
 [submodule "tek1/myradar"]
 	path = tek1/myradar
 	url = https://github.com/jawedlahrouri/My_Radar.git
@@ -45,10 +45,10 @@
 	url = https://github.com/jawedlahrouri/organized.git
 [submodule "tek1/pipeto"]
 	path = tek1/pipeto
-	url = https://github.com/LucasLhomme/pipeto.git
+	url = https://github.com/jawedlahrouri/pipeto.git
 [submodule "tek1/Popeye"]
 	path = tek1/Popeye
-	url = git@github.com:EpitechPGEPromo2029/B-DOP-200-LIL-2-1-popeye-jawed.lahrouri.git
+	url = https://github.com/jawedlahrouri/Popeye.git
 [submodule "tek1/robotfactory"]
 	path = tek1/robotfactory
 	url = https://github.com/jawedlahrouri/RobotFactory.git
@@ -63,25 +63,25 @@
 	url = https://github.com/jawedlahrouri/Arcade.git
 [submodule "tek2/codename"]
 	path = tek2/codename
-	url = git@github.com:EpitechPGE2-2025/G-AIA-410-LIL-4-1-codename-2.git
+	url = https://github.com/jawedlahrouri/codename.git
 [submodule "tek2/Cvrie"]
 	path = tek2/Cvrie
 	url = https://github.com/jawedlahrouri/Cvrie.git
 [submodule "tek2/mymarvin"]
 	path = tek2/mymarvin
-	url = git@github.com:EpitechPGE2-2025/G-DOP-400-LIL-4-1-mymarvin-1.git
+	url = https://github.com/jawedlahrouri/mymarvin.git
 [submodule "tek2/myteams"]
 	path = tek2/myteams
-	url = git@github.com:EpitechPGE2-2025/G-NWP-400-LIL-4-1-myteams-3.git
+	url = https://github.com/jawedlahrouri/myteams.git
 [submodule "tek2/NanoTekSpice"]
 	path = tek2/NanoTekSpice
 	url = https://github.com/jawedlahrouri/NanoTekSpice.git
 [submodule "tek2/octopus"]
 	path = tek2/octopus
-	url = git@github.com:EpitechPGE2-2025/G-DOP-400-LIL-4-1-octopus-2.git
+	url = https://github.com/jawedlahrouri/octopus.git
 [submodule "tek2/panoramix"]
 	path = tek2/panoramix
-	url = git@github.com:EpitechPGE2-2025/G-CCP-400-LIL-4-1-panoramix-37.git
+	url = https://github.com/jawedlahrouri/panoramix.git
 [submodule "tek2/Persona"]
 	path = tek2/Persona
 	url = https://github.com/jawedlahrouri/Persona.git
